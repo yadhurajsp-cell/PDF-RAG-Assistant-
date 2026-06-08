@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers
+torch
+transformers
+huggingface-hub
